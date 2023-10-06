@@ -7,16 +7,16 @@ News React-Redux, React-Router v6, TypeScript App
 [vercel-link-here]
 
 <a href="https://github.com/topics/react">
-  <img src="https://img.shields.io/badge/React-<blue>" alt="React">
+  <img src="https://img.shields.io/badge/React-blue" alt="React">
 </a>
 <a href="https://github.com/topics/redux">
-  <img src="https://img.shields.io/badge/Redux-<blue>" alt="Redux">
+  <img src="https://img.shields.io/badge/Redux-blue" alt="Redux">
 </a>
 <a href="https://github.com/topics/react-router">
-  <img src="https://img.shields.io/badge/React-router-v6-<blue>" alt="React-router-v6">
+  <img src="https://img.shields.io/badge/React_router-blue" alt="React-router-v6">
 </a>
 <a href="https://github.com/topics/typescript">
-  <img src="https://img.shields.io/badge/TypeScript-<blue>" alt="Typescript">
+  <img src="https://img.shields.io/badge/TypeScript-blue" alt="Typescript">
 </a>
 
 ## React, React Router v6, Redux, TypeScript
