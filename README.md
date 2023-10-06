@@ -7,16 +7,16 @@ News React-Redux, React-Router v6, TypeScript App
 [vercel-link-here]
 
 <a href="https://github.com/topics/react">
-  <img src="https://img.shields.io/badge/Custom-Badge-<blue>" alt="React">
+  <img src="https://img.shields.io/badge/React-blue" alt="React">
 </a>
 <a href="https://github.com/topics/redux">
-  <img src="https://img.shields.io/badge/Custom-Badge-<blue>" alt="Redux">
+  <img src="https://img.shields.io/badge/Redux-blue" alt="Redux">
 </a>
 <a href="https://github.com/topics/react-router">
-  <img src="https://img.shields.io/badge/Custom-Badge-<blue>" alt="React-router-v6">
+  <img src="https://img.shields.io/badge/React_router-blue" alt="React-router-v6">
 </a>
 <a href="https://github.com/topics/typescript">
-  <img src="https://img.shields.io/badge/Custom-Badge-<blue>" alt="Typescript">
+  <img src="https://img.shields.io/badge/TypeScript-blue" alt="Typescript">
 </a>
 
 ## React, React Router v6, Redux, TypeScript
@@ -52,19 +52,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 | `/src/pages`			           			| Api, route files 						 																  |
 | `/src/utils`			           			| Config file																  |
 | `/src/styles`			         				| Css global styling 																						|
-| `/src/components`       					| React components    																					|
-store 						 																  |
-| `/src/store`			           			| Redux store																  |
-types 						 																  |
-| `/src/types`			           			| TypeScript types																  |
-services 						 																  |
-| `/src/services`			           		| API calls																  |
-assets 						 																  |
-| `/src/assets`			           		    | images																  |
-utils 						 																  |
-| `/src/utils`			           		    | utils																  |
-fixtures 						 																  |
-| `/src/fixtures`			           		| mocks															  |
+| `/src/components`       					| React components    																					| 						 																  |
+| `/src/store`			           			| Redux store																  |						 			|
+| `/src/types`			           			| TypeScript types																  |						|
+| `/src/services`			           		| API calls																  | 						 			|
+| `/src/assets`			           		  | images																  |						 					|
+| `/src/utils`			           		  | utils																  |						 						|
+| `/src/fixtures`			           		| mocks															  |                         |
 
 
 ### Learn More
