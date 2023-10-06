@@ -3,8 +3,8 @@ async function getNews<T>(): Promise<T> {
     const options: RequestInit = {
       method: 'GET',
       headers: {
-        'x-rapidapi-host' : 'process.env.REACT_APP_PUBLIC_API_NEWS',
-        'x-rapidapi-key': 'process.env.REACT_APP_PUBLIC_API_NEWS_KEYS',
+        'x-rapidapi-host' : process.env.REACT_APP_PUBLIC_API_NEWS || '',
+        'x-rapidapi-key': process.env.REACT_APP_PUBLIC_API_NEWS_KEYS || '',
       },
     }
     

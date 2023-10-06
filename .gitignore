@@ -17,8 +17,6 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.env.REACT_APP_PUBLIC_API_NEWS
-.env.REACT_APP_PUBLIC_API_NEWS_KEYS
 
 npm-debug.log*
 yarn-debug.log*
