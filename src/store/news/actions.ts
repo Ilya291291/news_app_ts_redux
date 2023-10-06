@@ -3,8 +3,6 @@ import { IStore } from "./types"
 import { ThunkAction } from "redux-thunk"
 import { ThunkDispatch } from "redux-thunk";
 
-// import { INewsDetail } from "types/INewsDetail";
-
 import getNews from "services/getNews"
 
 export const setNewsAction = (articles: IStore['articles']) => {
