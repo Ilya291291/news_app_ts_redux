@@ -14,7 +14,7 @@ async function getNews<T>(): Promise<T> {
       page: '1',
     })
 
-    const response: Response = await fetch(`https://process.env.REACT_APP_PUBLIC_API_NEWS/v1/search?${queryParams}`, options)
+    const response: Response = await fetch(`https://${process.env.REACT_APP_PUBLIC_API_NEWS}/v1/search?${queryParams}`, options)
       const data : T =  await response.json()
       return data
 }
