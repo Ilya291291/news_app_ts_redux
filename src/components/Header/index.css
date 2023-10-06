@@ -18,6 +18,6 @@
   .news_nav > a:active {
     color: #004FEC;
 }
-img {
+.news_navbar_title {
   transform: rotate(-90deg);
 }
