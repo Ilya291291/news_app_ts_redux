@@ -4,7 +4,7 @@
 
 News React-Redux, React-Router v6, TypeScript App
 
-[vercel-link-here]
+[posts-redux-app-hw-h6js.vercel.app]
 
 <a href="https://github.com/topics/react">
   <img src="https://img.shields.io/badge/React-blue" alt="React">
@@ -67,4 +67,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Deploy on Vercel
-[vercel-link-here]
+[posts-redux-app-hw-h6js.vercel.app]
