@@ -53,12 +53,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 | `/src/utils`			           			| Config file																  |
 | `/src/styles`			         				| Css global styling 																						|
 | `/src/components`       					| React components    																					| 						 																  |
-| `/src/store`			           			| Redux store																  |						 																  |
-| `/src/types`			           			| TypeScript types																  |						 																  |
-| `/src/services`			           		| API calls																  | 						 																  |
-| `/src/assets`			           		  | images																  |						 																  |
-| `/src/utils`			           		  | utils																  |						 																  |
-| `/src/fixtures`			           		| mocks															  |
+| `/src/store`			           			| Redux store																  |						 			|
+| `/src/types`			           			| TypeScript types																  |						|
+| `/src/services`			           		| API calls																  | 						 			|
+| `/src/assets`			           		  | images																  |						 					|
+| `/src/utils`			           		  | utils																  |						 						|
+| `/src/fixtures`			           		| mocks															  |                         |
 
 
 ### Learn More
