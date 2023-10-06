@@ -1,0 +1,42 @@
+.contacts {
+    display: flex;
+    justify-content: space-between;
+}
+.contacts_info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 380px;
+}
+.contacts_phone {
+    text-decoration: none;
+    font-size: 60px;
+    color: #004FEC;
+}
+.contacts_name {
+    padding-left: 23px;
+    border-left: 1px solid #004FEC;
+    font-size: 25px;
+}
+.contacts_email {
+    text-decoration: none;
+    color: #333D51;
+    font-size: 20px;
+}
+.contacts_position {
+    color: #333D51;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.contacts_technologies {
+    font-size: 20px;
+    color: rgba(51,61,81,.5);
+}
+.contacts_image {
+    width: 50%;
+}
+.contacts_image > img {
+    width: 100%;
+    min-width: 540px;
+}

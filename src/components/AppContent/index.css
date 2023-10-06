@@ -1,0 +1,36 @@
+
+* {
+    box-sizing: border-box;
+    font-family: "Proxima Nova";
+  }
+  a {
+    text-decoration: none;
+  }
+  
+  .wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1100px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    color: #333D51;
+    font-size: 1rem;
+  }
+  
+  .blue-color {
+    color: #004FEC;
+  }
+  .newslist_container {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+  }
+  .small {
+    font-size: 12px;
+    font-weight: 400;
+    padding-right: 1rem;
+  }
+    
